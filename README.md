@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Randika01
+- 👋 Hi, I’m Randika Achinthani
 - 👀 I’m interested in Coding and Designing
 - 🌱 I’m currently reading a Computer Science degree
 - 💞️ I’m looking to collaborate on ...
