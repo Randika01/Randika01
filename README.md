@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Randika Achinthani
+- 👋 Hi, I’m Randika Achinthani - AI & ML Developer - Intern
 - 👀 I’m passionate about AI/ML, coding, and UI/UX design
 - 🌱 I’m currently pursuing a Computer Science degree at Wayamba University of Sri Lanka
 - 💡 I love exploring the intersection of technology and creativity
